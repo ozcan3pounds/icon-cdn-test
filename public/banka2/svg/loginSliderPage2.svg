@@ -19,12 +19,12 @@
 <linearGradient id="paint0_linear_1402_11168" x1="316" y1="0" x2="316" y2="993" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="0.56" stop-color="#EFA9AB"/>
-<stop offset="1" stop-color="#006ECD"/>
+<stop offset="1" stop-color="#D40054"/>
 </linearGradient>
 <linearGradient id="paint1_linear_1402_11168" x1="391" y1="993" x2="391" y2="7.98827e-05" gradientUnits="userSpaceOnUse">
 <stop stop-color="#A60034"/>
-<stop offset="0.5" stop-color="#3F6FD4"/>
-<stop offset="1" stop-color="#73A9E9"/>
+<stop offset="0.5" stop-color="#f0146b"/>
+<stop offset="1" stop-color="#db3376"/>
 </linearGradient>
 <radialGradient id="paint2_radial_1402_11168" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(184.903 858.452) scale(107.599 10.8961)">
 <stop/>
